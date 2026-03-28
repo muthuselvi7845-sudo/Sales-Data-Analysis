@@ -1,5 +1,6 @@
 # Sales-Data-Analysis
 Sales Data Analysis - Classification Project
+
 Project Overview Target variable: Payment Method (Gift Card / Credit Card).
 
 Goal: Transaction details (Product, Price, Quantity, Manager, City)
